@@ -1,0 +1,22 @@
+# ─────────────────────────────────────────────────────────────
+#  Financial Simulation Engine — Production Dependencies
+# ─────────────────────────────────────────────────────────────
+
+# Core
+fastapi>=0.100.0,<1.0.0
+uvicorn[standard]>=0.23.0,<1.0.0
+gunicorn>=21.2.0,<23.0.0
+pydantic>=2.0.0,<3.0.0
+
+# Database
+sqlalchemy>=2.0.0,<3.0.0
+
+# Metrics
+prometheus-client>=0.17.0,<1.0.0
+
+# LangChain (optional — tool integration)
+langchain>=0.1.0,<1.0.0
+langchain-core>=0.1.0,<1.0.0
+
+# Redis (optional — production rate limiting)
+# redis>=5.0.0,<6.0.0
