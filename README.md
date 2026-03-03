@@ -1,4 +1,4 @@
-# SNEMOSYNE — Financial Simulation Engine
+# HARMONY's Financial Simulation Engine
 
 > Production-grade, deterministic financial simulation system with structured tool calling, risk intelligence, and LLM-agent orchestration support.
 
