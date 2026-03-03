@@ -139,8 +139,8 @@ This system is a **deterministic financial simulation engine** designed to evalu
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_ORG/SNEMOSYNE-COGNITIVE-MEMORY-LAYER.git
-cd SNEMOSYNE-COGNITIVE-MEMORY-LAYER
+git clone https://github.com/mdfaizee19/HARMONY.git
+cd HARMONY
 
 # 2. Create virtual environment
 python3.11 -m venv venv
