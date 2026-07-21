@@ -51,7 +51,7 @@ HARMONY enforces what users already know they should do — at the exact moment 
 
 ---
 ## Architecture Diagram 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/14f16df1-7b89-4c00-8d85-cb7b200418f7" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/34d90a57-65d6-4d4f-8b4c-3e2457af5bbe" />
 
 
 ## What Makes HARMONY Different
