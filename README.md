@@ -50,6 +50,9 @@ HARMONY enforces what users already know they should do — at the exact moment 
 8. Every step is logged
 
 ---
+## Architecture Diagram 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/14f16df1-7b89-4c00-8d85-cb7b200418f7" />
+
 
 ## What Makes HARMONY Different
 
